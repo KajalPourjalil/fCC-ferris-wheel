@@ -80,3 +80,9 @@
     top: 7%;
 }
 
+@keyframes wheel {
+    0% {
+        transform: rotate(0deg);
+    }
+    
+}
